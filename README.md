@@ -10,7 +10,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/galvancamilanicole/intro-component-with-sign-up-form)
+- Live Site URL: [GitHub Pages](https://galvancamilanicole.github.io/intro-component-with-sign-up-form/)
 
 ## My process
 
@@ -44,13 +43,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- MVC
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- Javascript
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@galvancamilanicole](https://www.frontendmentor.io/profile/galvancamilanicole)
